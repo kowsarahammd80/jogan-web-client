@@ -1,0 +1,12 @@
+.nav-button{
+  background-color: slateblue;
+  color: azure;
+  padding: 8px 20px;
+  border-radius: 50px;
+  font-weight: 500;
+}
+
+.nav-button:hover{
+  background-color: orange;
+  color: black;
+}
